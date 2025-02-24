@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emilvase
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning React/NextJS and Svelte/SvelteKit
+- 👀 I’m interested in Web and Software development 
+- 🌱 I’m currently learning React, NextJS and the component library shadcn/ui
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilvase\&rank_icon=github&theme=dracula)
